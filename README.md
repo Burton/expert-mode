@@ -10,6 +10,7 @@ This repository contains the text of every published chapter. When I change a ch
 
 - [Introduction](chapters/00-introduction.md)
 - [Prologue](chapters/00-prologue.md)
+- [Chapter 1: Everything Is Green](chapters/01-everything-is-green.md)
 
 ## Feedback
 
