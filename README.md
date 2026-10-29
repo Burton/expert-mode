@@ -17,4 +17,4 @@ To comment on a chapter, [open an issue](https://github.com/Burton/expert-mode/i
 
 ## Copyright
 
-© 2026 Matthew Burton. All rights reserved. You may not copy, modify, or distribute this text without written permission.
+© 2026 Matthew Burton. All rights reserved. You may not copy, modify, or distribute this text without written attribution.
