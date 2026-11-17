@@ -117,7 +117,7 @@ Rick Caldwell stood up, thanked Marcus, and adjusted his tie. He carried himself
 
 Heads nodded around the table.
 
-“According to their latest status report, they’re tracking to meet all milestone deliverables for the quarter.” The next slide portrayed the product roadmap, a sequence of features superimposed over a horizontal timeline. Ramona studied the slide, noting how neatly everything was aligned: every feature in the past was green, every feature in the future in the “planning” phase. The room was filled with a palpable sense that RescuePoint would make them all proud.
+“According to their latest status report, they’re tracking to meet all milestone deliverables for the quarter.” The next slide portrayed the product roadmap, a sequence of features superimposed over a horizontal timeline. Ramona studied the slide, noting how neatly everything was aligned: every feature in the past was green, every feature in the future in the “planning” phase. The room was filled with a palpable sense that RescuePoint would make them all proud. Only Sofia Li, the ACIO for Customer Engagement, seemed unconvinced. She kept her eyes on her printed copy of the slides and said nothing.
 
 “This sounds promising,” Ramona said. “Could we see a demo of what they’ve built so far? I’d like to get a feel for what the everyday user will see.” Ramona’s question came from a place of genuine curiosity; she was aware of RescuePoint because the White House had mentioned it, but few public details were available, and Ramona had had zero exposure to the program until now.
 
